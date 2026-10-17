@@ -1,3 +1,15 @@
+
+
+https://github.com/user-attachments/assets/4415c1c9-e1f7-4c8b-a205-94073c14cb91
+
+
+
+https://github.com/user-attachments/assets/e20600a8-3ffa-4a64-bcd5-665062127a65
+
+
+
+https://github.com/user-attachments/assets/5c78c89c-f6ad-4976-91a3-b8e09ae22f09
+
 # Goodmotion 🪄
 
 > Production-ready GSAP & Framer Motion components designed for modern web apps.
