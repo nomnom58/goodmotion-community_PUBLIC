@@ -7,6 +7,10 @@
 
 Goodmotion is an open collection of curated, copy-paste interactive UI motion components and animation patterns built for Next.js, React, and Tailwind CSS developers.
 
+
+https://github.com/user-attachments/assets/5d5ef733-84a6-431a-b55a-05724fa92eec
+
+
 ---
 
 ## ⚡️ Key Highlights
